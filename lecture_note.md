@@ -9,7 +9,7 @@
 
 - **Linear Search**: Algorithm goes through each element in the collection, comparing the elements to the target until it either finds a match, or reaches the end of the collection. Linear Search have linear time complexity O(n)
 
-- **Binary Search**: Binary search relies on the list being pre-sorted, and continuously bisecting the list, depending on weather the middle of the list is greater or less than the target.
+- **Binary Search**: Binary search relies on the list being pre-sorted, and continuously bisecting the list, depending on weather the middle of the list is greater or less than the target. O(log n)
 
 ### Sorting Algorithms
 *There are many but here are a few*: https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/visualize/
